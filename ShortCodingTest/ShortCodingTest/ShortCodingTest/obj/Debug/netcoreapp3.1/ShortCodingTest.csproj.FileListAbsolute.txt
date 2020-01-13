@@ -1,0 +1,11 @@
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.exe
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.deps.json
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.runtimeconfig.json
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.runtimeconfig.dev.json
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.dll
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\bin\Debug\netcoreapp3.1\ShortCodingTest.pdb
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\obj\Debug\netcoreapp3.1\ShortCodingTest.csprojAssemblyReference.cache
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\obj\Debug\netcoreapp3.1\ShortCodingTest.AssemblyInfoInputs.cache
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\obj\Debug\netcoreapp3.1\ShortCodingTest.AssemblyInfo.cs
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\obj\Debug\netcoreapp3.1\ShortCodingTest.dll
+C:\ShortCodingTest\ShortCodingTest\ShortCodingTest\obj\Debug\netcoreapp3.1\ShortCodingTest.pdb
